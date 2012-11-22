@@ -1,3 +1,3 @@
 Newsite-Dev
-This is a test
+This is the new site for the TAMU IEEE student branch
 ===========
